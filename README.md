@@ -11,4 +11,4 @@ This project is an ESP32-powered chessboard inspired by https://github.com/omerc
 Everything is available in the documentation folder.
 
 2. Result Images
-   See the board in action in the Result_images folder.
+   See the board in action in the Results_images folder.
